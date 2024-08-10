@@ -36,4 +36,4 @@ The dataset used in this project contains statistics for a large number of US Co
 1. Visualize clusters using scatter plots or other appropriate plots to gain insights into data distribution and cluster separability.
 2. Discuss findings, limitations, and implications of using K-Means clustering for this dataset.
 
-### Score: [9/10-Lab03](https://docs.google.com/spreadsheets/d/1Eyv9f2xt2KyV3tpZZkzaBGWBdh9G-MlkOtEU6jMgHG4/edit?fbclid=IwY2xjawEkasNleHRuA2FlbQIxMQABHRsvyHOase_5EOc_y7wB3DvfSQzDZ-n5Y1KsswlazYciQsutFr81pHz1eg_aem_frzFTYRdAeKNGmSDZD0DHw&gid=0#gid=0)
+### Score: [9/10-Lab04](https://docs.google.com/spreadsheets/d/1Eyv9f2xt2KyV3tpZZkzaBGWBdh9G-MlkOtEU6jMgHG4/edit?fbclid=IwY2xjawEkasNleHRuA2FlbQIxMQABHRsvyHOase_5EOc_y7wB3DvfSQzDZ-n5Y1KsswlazYciQsutFr81pHz1eg_aem_frzFTYRdAeKNGmSDZD0DHw&gid=0#gid=0)
